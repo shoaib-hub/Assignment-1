@@ -87,6 +87,8 @@ public String toString() {
 		System.out.println(b.getBalance());
 		//check exceeded amount condition
 		System.out.println(b.transferTo(a,2000));
+		// output
+		
 		
 
 	}
