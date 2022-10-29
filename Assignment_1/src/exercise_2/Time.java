@@ -133,6 +133,6 @@ public class Time {
 		  }
 	}
 
-	//Output:
+	//Output of the code:
 
 //		21:31:06 to 23:59:59
