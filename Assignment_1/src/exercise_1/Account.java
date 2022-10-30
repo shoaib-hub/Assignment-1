@@ -88,6 +88,7 @@ public String toString() {
 		//check exceeded amount condition
 		System.out.println(b.transferTo(a,2000));
 		
+		
 
 	}
 
